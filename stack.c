@@ -2,7 +2,7 @@
 #define size 5
 int main()
 {
-    int a[size],top=-1,item,ch,i;
+     int a[size],top=-1,item,ch,i;
     do
     {
     printf("\n press 1 for push");
