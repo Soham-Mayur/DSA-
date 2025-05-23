@@ -7,7 +7,6 @@ int main() {
     for (i = 0; i < 10; i++) {
         scanf("%d", &a[i]);
     }
-
     printf("\nEnter the search element: ");
     scanf("%d", &s);
 
